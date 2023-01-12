@@ -3,4 +3,4 @@
 print('Hello World')
 
 # TODO: tee tämä huomenna loppuun
-# mahtoikohan päivitys HitHubiin onnistua
+# mahtoikohan päivitys GitHubiin onnistua
